@@ -1,0 +1,15 @@
+.profile{
+    background-color: purple;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    width: 250px;
+    height: 300px;
+    color: white;
+    border-radius: 10px;
+}
+
+img{
+    border-radius: 70px;
+}

@@ -1,0 +1,17 @@
+.profile-card{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 25px;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+
+.profile-card:hover{
+    transform: scale(1.05);
+}
